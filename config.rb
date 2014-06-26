@@ -34,7 +34,7 @@ end
 # Required
 set :blog_url, 'http://www.example.com'
 set :blog_name, 'Eric Epperson'
-set :blog_description, 'Makes developing websites simple.'
+set :blog_description, 'My IronYard Academy Experience'
 set :author_name, 'Middleman'
 set :author_bio, 'Middleman is a static site generator using all the ' \
                  'shortcuts and tools in modern web development.'

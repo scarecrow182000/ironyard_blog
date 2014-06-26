@@ -1,0 +1,22 @@
+---
+title: Day 2
+date: 2014-06-26 18:43 UTC
+tags:
+---
+
+<article>
+<p>So in my last entry I ended it with the question of how glamorous is the process
+of learning code 5 days a week, 8 hours a day, for 12 weeks.  Haha. This journey
+of learning just starts with class, in which you will be bombarded with all kinds
+of information you will struggle to write down, or type into notes, or cram into
+your memory. After class is your lab time. After lab time is getting home and working
+more on your homework. All these new concepts will be rattling around in your head
+fighting for space with the concepts you just learned yesterday and the day before
+yesterday. You will delve into insanely dry reference books, root around for demo
+videos, and dig up obscure web references in hurculanean efforts to understand
+what amounts to a new language that humans are only supposed to just comprehend,
+but which absolutely sings to your computer. It's frustrating and challenging and
+exhausting. But, the moments when realization dawns on you that you can comprehend
+and write in a new machine language provide quite a bit of satisfaction (usually
+into the night).
+</p></article>

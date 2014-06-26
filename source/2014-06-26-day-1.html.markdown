@@ -1,0 +1,20 @@
+---
+title: Day 1
+date: 2014-06-26 18:29 UTC
+tags:
+---
+
+<article>
+<p>Before anything else I want to let you know, I love computers, but the last 15 years
+of my life, I've been working as a cook/chef. It's not a career choice that is as
+glamorous as movies, TV shows, and Culinary School commercials like to make out.
+The hours are long, you work when everyone else is playing, the work is backbreaking,
+the pay sucks, and you are constantly exposed to open flames and sharp cutting
+surfaces. After a decade you will end up with flat feet, hands and arms loaded with
+scars, and a social circle that will most likely include exclusively the people
+with whom you work. The other thing you should know about me is that I have a
+beautiful 16 month old daughter whom I want to spend more time with. When I heard
+the Iron Yard commercials on the radio, it was too good to be true, but I decided
+what else did I have to lose so I committed myslef to it. Twelve weeks of nothing
+but learning code Monday-Friday, 8 hours a day. Sounds exciting and glamorous right?
+</p></article>
