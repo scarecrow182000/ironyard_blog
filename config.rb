@@ -1,4 +1,5 @@
 require 'sanitize'
+gem "middleman-deploy"
 
 ###
 # Blog settings
