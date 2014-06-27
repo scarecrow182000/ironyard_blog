@@ -38,21 +38,4 @@ Before anything else I want to let you know, I love computers, but the last 15 y
 of my life, I’ve been working as a cook/chef. It’s not a career choice that is as
 glamorous as movies, TV shows, and Culinary School commercials like to make out...</summary>
   </entry>
-  <entry>
-    <title>Welcome to Ghost</title>
-    <link rel="alternate" href="http://www.example.com/2013/10/26/welcome-to-ghost/"/>
-    <id>http://www.example.com/2013/10/26/welcome-to-ghost/</id>
-    <published>2013-10-25T19:00:00-05:00</published>
-    <updated>2014-06-26T11:09:13-05:00</updated>
-    <author>
-      <name>Middleman</name>
-    </author>
-    <summary type="html">You’re in! Nice. We’ve put together a little post to introduce you to the Ghost
-editor and get you started. Go ahead and edit this post to get going and learn
-how it all works!
-
-Getting Started
-
-Writing in markdown is really easy. In the left hand...</summary>
-  </entry>
 </feed>
